@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 68f4d9427073b6242bd537d93bbd7d50
+timeCreated: 1542024569
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DamBi_hert_ef_0
+    21300002: DamBi_hert_ef_1
+    21300004: DamBi_head
+    21300006: DamBi_neck
+    21300008: DamBi_tail
+    21300010: DamBi_jaw
+    21300012: DamBi_body
+    21300014: DamBi_leg_01
+    21300016: DamBi_leg_02
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DamBi_hert_ef_0
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1814
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamBi_hert_ef_1
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1789
+        width: 127
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamBi_head
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1354
+        width: 493
+        height: 357
+      alignment: 9
+      pivot: {x: 0.7144332, y: 0.24742559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamBi_neck
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1345
+        width: 447
+        height: 420
+      alignment: 9
+      pivot: {x: 0.51391166, y: 0.25569952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamBi_tail
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 944
+        width: 911
+        height: 767
+      alignment: 9
+      pivot: {x: 0.06313059, y: 0.13920997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamBi_jaw
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1197
+        width: 175
+        height: 63
+      alignment: 9
+      pivot: {x: 0.97989833, y: 0.6050289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamBi_body
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 160
+        width: 1235
+        height: 941
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamBi_leg_01
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 160
+        width: 151
+        height: 299
+      alignment: 9
+      pivot: {x: 0.5823643, y: 0.8951599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamBi_leg_02
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 295
+        width: 274
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4499093, y: 0.7577254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

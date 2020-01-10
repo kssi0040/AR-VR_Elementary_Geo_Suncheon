@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 58c7ab301ba2c1f46bedf83b3f20d6a6
+timeCreated: 1541500352
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: teacher_R_arm
+    21300002: teacher_R_Upper
+    21300004: teacher_body
+    21300006: teacher_3
+    21300008: teacher_4
+    21300010: teacher_head
+    21300012: teacher_L_Upper
+    21300014: teacher_L_arm
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teacher_R_arm
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 3940
+        width: 494
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.79086316, y: 0.9454797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teacher_R_Upper
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 4015
+        width: 366
+        height: 794
+      alignment: 9
+      pivot: {x: 0.881369, y: 0.85158956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teacher_body
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 50
+        width: 1037
+        height: 4599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teacher_3
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 4645
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teacher_4
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 4642
+        width: 77
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teacher_head
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 4637
+        width: 1143
+        height: 1189
+      alignment: 9
+      pivot: {x: 0.47485802, y: 0.04078442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teacher_L_Upper
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 2684
+        width: 366
+        height: 794
+      alignment: 9
+      pivot: {x: 0.07376482, y: 0.85676014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teacher_L_arm
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 2609
+        width: 495
+        height: 1069
+      alignment: 9
+      pivot: {x: 0.21801856, y: 0.95316017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

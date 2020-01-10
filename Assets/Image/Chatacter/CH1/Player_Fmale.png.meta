@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 05ee96a582a50eb45af2a7bb1d81aabc
+timeCreated: 1541416331
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player_Fmale_0
+    21300002: Player_Fmale_1
+    21300004: Player_Fmale_2
+    21300006: Player_Fmale_3
+    21300008: Player_Fmale_4
+    21300010: Player_Fmale_5
+    21300012: Player_Fmale_6
+    21300014: Player_Fmale_7
+    21300016: Player_Fmale_8
+    21300018: Player_Fmale_9
+    21300020: Player_Fmale_10
+    21300022: Player_Fmale_11
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_Fmale_0
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 4307
+        width: 338
+        height: 595
+      alignment: 9
+      pivot: {x: 0.88329375, y: 0.8330095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_Fmale_1
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 4105
+        width: 415
+        height: 788
+      alignment: 9
+      pivot: {x: 0.77544945, y: 0.9351974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_Fmale_2
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 3561
+        width: 1250
+        height: 1291
+      alignment: 9
+      pivot: {x: 0.47455353, y: 0.9540509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_Fmale_3
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 3668
+        width: 1045
+        height: 1166
+      alignment: 9
+      pivot: {x: 0.52609056, y: 0.024553092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_Fmale_4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3424
+        width: 339
+        height: 596
+      alignment: 9
+      pivot: {x: 0.1403164, y: 0.8963836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_Fmale_5
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 3239
+        width: 421
+        height: 784
+      alignment: 9
+      pivot: {x: 0.31115577, y: 0.9563334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_Fmale_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 39
+        width: 1674
+        height: 3080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_Fmale_7
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 2831
+        width: 258
+        height: 558
+      alignment: 9
+      pivot: {x: 0.8600866, y: 0.87317115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_Fmale_8
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 2528
+        width: 382
+        height: 837
+      alignment: 9
+      pivot: {x: 0.80190355, y: 0.9478055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_Fmale_9
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 244
+        width: 1355
+        height: 3082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_Fmale_10
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 1490
+        width: 381
+        height: 834
+      alignment: 9
+      pivot: {x: 0.24954183, y: 0.946775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_Fmale_11
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 1791
+        width: 258
+        height: 554
+      alignment: 9
+      pivot: {x: 0.20058708, y: 0.860898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

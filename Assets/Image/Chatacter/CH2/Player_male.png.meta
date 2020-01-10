@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 3a864bdda4354074b91ec5b1e87d7ef3
+timeCreated: 1541500347
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player_male_R_Arm_COSTUM
+    21300002: Player_male_R_Upper_COSTUM
+    21300004: Player_male_R_Arm
+    21300006: Player_male_R_arm
+    21300008: Player_male_head
+    21300010: Player_male_body_Costum
+    21300012: Player_male_L_Upper_COSTUM
+    21300014: Player_male_L_Arm_COSTUM
+    21300016: Player_male_L_Upper
+    21300018: Player_male_L_arm
+    21300020: Player_male_body
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_male_R_Arm_COSTUM
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 3966
+        width: 410
+        height: 801
+      alignment: 9
+      pivot: {x: 0.6968366, y: 0.9336748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_male_R_Upper_COSTUM
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 4120
+        width: 314
+        height: 622
+      alignment: 9
+      pivot: {x: 0.9246348, y: 0.7707779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_male_R_Arm
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 4264
+        width: 253
+        height: 510
+      alignment: 9
+      pivot: {x: 0.8744596, y: 0.77520204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_male_R_arm
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 3973
+        width: 395
+        height: 861
+      alignment: 9
+      pivot: {x: 0.81090844, y: 0.96050763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_male_head
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 3756
+        width: 1015
+        height: 1167
+      alignment: 9
+      pivot: {x: 0.5450489, y: 0.023292521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_male_body_Costum
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 1027
+        height: 3090
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_male_L_Upper_COSTUM
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 3203
+        width: 319
+        height: 631
+      alignment: 9
+      pivot: {x: 0.07102196, y: 0.7669153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_male_L_Arm_COSTUM
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 3041
+        width: 406
+        height: 779
+      alignment: 9
+      pivot: {x: 0.28393975, y: 0.92340094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_male_L_Upper
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 2987
+        width: 261
+        height: 538
+      alignment: 9
+      pivot: {x: 0.12357538, y: 0.77392304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_male_L_arm
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 2694
+        width: 390
+        height: 851
+      alignment: 9
+      pivot: {x: 0.19410306, y: 0.9494262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player_male_body
+      rect:
+        serializedVersion: 2
+        x: 3857
+        y: 240
+        width: 1000
+        height: 3067
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
